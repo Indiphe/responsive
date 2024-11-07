@@ -1,0 +1,13 @@
+body {
+  background-color: rgb(154, 202, 125);
+}
+.card-body {
+  background-color: rgb(154, 202, 125);
+}
+img {
+  width: 500px;
+  height: auto;
+}
+footer {
+  font-size: 30px;
+}
